@@ -1,0 +1,6 @@
+{
+  "name": "AURA | Modern Minimalist E-Commerce",
+  "description": "High-converting, responsive e-commerce storefront with slide-over cart, interactive filtering, rich product details, and streamlined checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
